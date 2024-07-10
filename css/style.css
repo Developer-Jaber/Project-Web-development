@@ -172,6 +172,13 @@ main{
     letter-spacing: 0%;
     text-align: center;
 }
+.card-box .answer-card button:hover{
+    background-color:rgb(87, 106, 151) ;
+    color: azure;
+    border-radius: 3px;
+    cursor: pointer;
+    border: none;
+}
 .answer-card img{
     width: 240px;
     height: 240px;
